@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain-nvidia-ai-endpoints
+langchain-community
+langchain-core
+pymilvus
+requests
+thefuzz
+python-Levenshtein
